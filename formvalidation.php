@@ -75,6 +75,7 @@
 
 		<hr>
 		<form action="" method="post">
+		
 			<fieldset>
 				<legend><h1>Club Member Registration</h1></legend>
 				<table >
@@ -178,7 +179,7 @@
 						</td>
 					</tr>
 					<tr>
-						<td colspan="2" align="center"><input type="submit" name="register" value="register"></td>
+						<td colspan="4" align="center"><input type="submit" name="register" value="register"></td>
 					</tr>
 				</table>
 			</fieldset>
